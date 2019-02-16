@@ -1,0 +1,487 @@
+{
+  "trips": [
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 1.137,
+        "end_time": "2018-03-10T19:26:01-06:00",
+        "duration_seconds": 120,
+        "start_time": "2018-03-10T19:23:28-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 85
+        },
+        "event_rating": {
+          "phone_use_rating": 4,
+          "overspeeding_rating": 4,
+          "rapid_acceleration_rating": 4,
+          "hard_brake_rating": 4
+        }
+      },
+      "trip_id": "1426037008988"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 26.753,
+        "end_time": "2018-03-10T19:12:59-06:00",
+        "duration_seconds": 2820,
+        "start_time": "2018-03-10T18:25:28-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 46
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 2,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426033528050"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 41.923,
+        "end_time": "2018-03-10T18:23:42-06:00",
+        "duration_seconds": 5280,
+        "start_time": "2018-03-10T16:54:53-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 55
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 3,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1,
+          "hard_turn_rating": 2
+        }
+      },
+      "trip_id": "1426028093956"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 11.968,
+        "end_time": "2018-03-10T16:48:46-06:00",
+        "duration_seconds": 1800,
+        "start_time": "2018-03-10T16:18:03-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 68
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 5,
+          "rapid_acceleration_rating": 2,
+          "hard_brake_rating": 2
+        }
+      },
+      "trip_id": "1426025883093"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 21.355,
+        "end_time": "2018-03-10T14:50:21-06:00",
+        "duration_seconds": 3420,
+        "start_time": "2018-03-10T13:53:19-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 45
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426017199669"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 0.205,
+        "end_time": "2018-03-10T13:50:18-06:00",
+        "duration_seconds": 0,
+        "start_time": "2018-03-10T13:49:21-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 57
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 4,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426016961612"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 2.385,
+        "end_time": "2018-03-10T13:41:11-06:00",
+        "duration_seconds": 480,
+        "start_time": "2018-03-10T13:32:42-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 43
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426015962871"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 6.131,
+        "end_time": "2018-03-10T13:28:26-06:00",
+        "duration_seconds": 600,
+        "start_time": "2018-03-10T13:17:26-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 24
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426015046998"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 15.111,
+        "end_time": "2018-03-10T13:10:20-06:00",
+        "duration_seconds": 1020,
+        "start_time": "2018-03-10T12:52:36-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 40
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426013556573"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 1.498,
+        "end_time": "2018-03-10T12:49:19-06:00",
+        "duration_seconds": 180,
+        "start_time": "2018-03-10T12:45:23-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 60
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 4,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426013123034"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 14.129,
+        "end_time": "2018-03-10T12:42:33-06:00",
+        "duration_seconds": 1200,
+        "start_time": "2018-03-10T12:22:20-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 53
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 3,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426011740888"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 1.067,
+        "end_time": "2018-03-10T12:21:06-06:00",
+        "duration_seconds": 60,
+        "start_time": "2018-03-10T12:19:14-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 38
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426011554569"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 12.121,
+        "end_time": "2018-03-10T12:03:41-06:00",
+        "duration_seconds": 780,
+        "start_time": "2018-03-10T11:50:33-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 59
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 3,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426009833914"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 3.111,
+        "end_time": "2018-03-10T11:43:15-06:00",
+        "duration_seconds": 360,
+        "start_time": "2018-03-10T11:37:14-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 48
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426009034633"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 16.168,
+        "end_time": "2018-03-10T11:35:09-06:00",
+        "duration_seconds": 1380,
+        "start_time": "2018-03-10T11:12:08-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 48
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 2,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1426007528914"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 21.713,
+        "end_time": "2018-03-10T09:31:37-06:00",
+        "duration_seconds": 2460,
+        "start_time": "2018-03-10T08:50:03-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 51
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 4,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1425999003724"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 12.449,
+        "end_time": "2018-03-10T08:38:50-06:00",
+        "duration_seconds": 1380,
+        "start_time": "2018-03-10T08:14:51-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 44
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 1,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1425996891243"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 54.755,
+        "end_time": "2018-03-09T19:14:38-06:00",
+        "duration_seconds": 3960,
+        "start_time": "2018-03-09T18:08:31-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 71
+        },
+        "event_rating": {
+          "phone_use_rating": 2,
+          "overspeeding_rating": 4,
+          "rapid_acceleration_rating": 3,
+          "hard_brake_rating": 2
+        }
+      },
+      "trip_id": "1425946111565"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 46.594,
+        "end_time": "2018-03-09T18:02:37-06:00",
+        "duration_seconds": 2940,
+        "start_time": "2018-03-09T17:13:25-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 60
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 5,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1425942805618"
+    },
+    {
+      "info": {
+        "insurance_period": "NA",
+        "trip_max_speed_kmph": "NA",
+        "distance_km": 5.249,
+        "end_time": "2018-03-08T18:25:43-06:00",
+        "duration_seconds": 1140,
+        "start_time": "2018-03-08T18:06:19-06:00",
+        "tracking_id": "NA",
+        "session_id": "NA"
+      },
+      "driving_behavior": {
+        "score": {
+          "zendrive_score": 59
+        },
+        "event_rating": {
+          "phone_use_rating": 1,
+          "overspeeding_rating": 3,
+          "rapid_acceleration_rating": 1,
+          "hard_brake_rating": 1
+        }
+      },
+      "trip_id": "1425859579115"
+    }
+  ],
+  "end_date": "2018-03-10",
+  "start_date": "2018-02-10"
+}

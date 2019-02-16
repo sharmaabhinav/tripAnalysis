@@ -1,0 +1,48 @@
+.page-header {
+  height: 80px;
+}
+
+.grid {
+  margin: 0 !important;
+}
+
+.main {
+  height: calc(100vh - 80px);
+}
+
+.left-pane {
+  overflow: auto;
+  height: 100%
+}
+
+.right-pane {
+  height: 100%
+}
+
+.list-container .header {
+  margin-top: 12px !important;
+  font-size: 1.2em;
+}
+
+.list-container .item {
+  cursor: pointer;
+}
+
+.list-container .description-item {
+  margin-top: 20px;
+  overflow: auto;
+}
+
+.list-container .description-item:nth-child(2) {
+  margin-bottom: 25px;
+}
+
+.list-container .description-sub-item1 {
+  float: left;
+}
+
+.list-container .description-sub-item2 {
+  float: right;
+}
+
+
