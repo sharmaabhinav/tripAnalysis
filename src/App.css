@@ -11,7 +11,6 @@
 }
 
 .left-pane {
-  overflow: auto;
   height: 100%
 }
 
@@ -19,22 +18,33 @@
   height: 100%
 }
 
+.list-container {
+  height: inherit;
+  overflow: auto;
+}
+
+.list-container .selected-item {
+  background-color: darkgray !important;
+}
+
+.list-container .empty-trip-state {
+  text-align: center;
+  font-size: 20px;
+}
+
 .list-container .header {
   margin-top: 12px !important;
   font-size: 1.2em;
 }
 
-.list-container .item {
-  cursor: pointer;
-}
 
 .list-container .description-item {
-  margin-top: 20px;
+  margin-top: 15px;
   overflow: auto;
 }
 
 .list-container .description-item:nth-child(2) {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .list-container .description-sub-item1 {
@@ -43,6 +53,10 @@
 
 .list-container .description-sub-item2 {
   float: right;
+}
+
+#map {
+  height: 100%
 }
 
 
