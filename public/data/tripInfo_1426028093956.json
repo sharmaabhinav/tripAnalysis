@@ -34,46 +34,7 @@
       }
   ],
   "trip_id": "1426037008988",
-  "events": [{
-      "event_type": 3,
-      "event_type_name": "OVERSPEEDING",
-      "latitude_end": 40.8145881796243,
-      "longitude_end": -73.9980314,
-      "longitude_start": -73.8980314,
-      "latitude_start": 40.7139556857207,
-      "average_driver_speed_kmph": 49.535568691545045,
-      "max_driver_speed_kmph": 78.98654033076772,
-      "end_time": "2017-09-07T15:16:45-04:00",
-      "posted_speed_limit_kmph": 32.186854250516596,
-      "start_time": "2017-09-07T15:15:56-04:00"
-  }, {
-      "latitude_end": 40.9182284027719,
-      "latitude_start": 40.9182284027719,
-      "longitude_end": -74.2960023321903,
-      "event_type": 0,
-      "event_type_name": "HARD_BRAKE",
-      "start_time": "2017-09-07T15:20:28-04:00",
-      "longitude_start": -74.2960023321903,
-      "end_time": "2017-09-07T15:20:28-04:00"
-  }, {
-      "latitude_end": 40.9182284027719,
-      "latitude_start": 40.9182284027719,
-      "longitude_end": -74.2960023321903,
-      "event_type": 6,
-      "event_type_name": "PHONE_SCREEN_INTERACTION",
-      "start_time": "2017-09-07T15:20:28-04:00",
-      "longitude_start": -74.2960023321903,
-      "end_time": "2017-09-07T15:20:28-04:00"
-  }, {
-      "latitude_start": 39.7209858723,
-      "event_type": 2,
-      "event_type_name": "PHONE_USE",
-      "start_time": "2015-03-10T18:31:58-06:00",
-      "longitude_end": -104.932609689,
-      "longitude_start": -104.931542739,
-      "latitude_end": 39.7209808562,
-      "end_time": "2015-03-10T18:32:07-06:00"
-  }],
+  "events": [],
   "speed_profile":[
       [
           0.6710820000000001,

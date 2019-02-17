@@ -17,6 +17,7 @@ class App extends Component {
 
   render() {
     const {trips, fetchTripDetails, selectedTrip, searchTrips} = this.props
+    const MapItem = Object.keys(selectedTrip).length > 0 ? <Map info={selectedTrip} /> : <div className='empty-map-state'>Click on any trip to view the details on map</div>
     return (
       <Grid>
         <Grid.Row color="blue" className="page-header">
@@ -30,7 +31,7 @@ class App extends Component {
             <ListComponent items={trips} onTripSelection={fetchTripDetails} header={'Trips'} seletedItemId={selectedTrip.id}/>
           </Grid.Column>
           <Grid.Column width={10} className="right-pane">
-            { Object.keys(selectedTrip).length > 0 && <Map info={selectedTrip} /> }
+            {MapItem}
           </Grid.Column>
         </Grid.Row>
       </Grid>
